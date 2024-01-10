@@ -1,0 +1,15 @@
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.csproj.AssemblyReference.cache
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.Properties.Resources.resources
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.csproj.GenerateResource.cache
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.csproj.CoreCompileInputs.cache
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\Excel_done.exe.config
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\Excel_done.exe
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\Excel_done.pdb
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\EntityFramework.dll
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\EntityFramework.xml
+C:\Users\weber\source\repos\Excel_done\Excel_done\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.csproj.CopyComplete
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.exe
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.pdb
+C:\Users\weber\source\repos\Excel_done\Excel_done\obj\Debug\Excel_done.csproj.ResolveComReference.cache
